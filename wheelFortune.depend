@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1669058783 source:c:\users\rdsi1\downloads\main (1).c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1673557186 source:c:\users\rdsi1\documents\_classeprogram\projeto\rpg\wheelfortune\main.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
